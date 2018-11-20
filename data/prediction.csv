@@ -1,0 +1,1141 @@
+,League,Season,Match_Date,Home_Name,Away_Name,Result,Predict,Match?
+0,LALIGA,1718,170818,Leganes,Alaves,0,1,X
+1,LALIGA,1718,170818,Valencia,Las Palmas,0,1,X
+2,LALIGA,1718,170819,Celta Vigo,Real Sociedad,2,1,X
+3,LALIGA,1718,170819,Girona,Atletico Madrid,1,2,X
+4,LALIGA,1718,170819,Sevilla,Espanyol,1,0,X
+5,LALIGA,1718,170820,Athletic Bilbao,Getafe,1,0,X
+6,LALIGA,1718,170820,Barcelona,Real Betis,0,0,O
+7,LALIGA,1718,170820,Deportivo La Coruna,Real Madrid,2,2,O
+8,LALIGA,1718,170821,Levante,Villarreal,0,2,X
+9,LALIGA,1718,170821,Malaga,Eibar,2,1,X
+10,LALIGA,1718,170825,Real Sociedad,Villarreal,0,1,X
+11,LALIGA,1718,170825,Real Betis,Celta Vigo,0,1,X
+12,LALIGA,1718,170826,Alaves,Barcelona,2,2,O
+13,LALIGA,1718,170826,Levante,Deportivo La Coruna,1,1,O
+14,LALIGA,1718,170826,Girona,Malaga,0,2,X
+15,LALIGA,1718,170826,Las Palmas,Atletico Madrid,2,2,O
+16,LALIGA,1718,170827,Eibar,Athletic Bilbao,2,1,X
+17,LALIGA,1718,170827,Espanyol,Leganes,2,0,X
+18,LALIGA,1718,170827,Getafe,Sevilla,2,2,O
+19,LALIGA,1718,170827,Real Madrid,Valencia,1,0,X
+20,LALIGA,1718,170908,Leganes,Getafe,2,1,X
+21,LALIGA,1718,170909,Real Madrid,Levante,1,0,X
+22,LALIGA,1718,170909,Valencia,Atletico Madrid,1,2,X
+23,LALIGA,1718,170909,Sevilla,Eibar,0,0,O
+24,LALIGA,1718,170909,Barcelona,Espanyol,0,0,O
+25,LALIGA,1718,170910,Deportivo La Coruna,Real Sociedad,2,2,O
+26,LALIGA,1718,170910,Athletic Bilbao,Girona,0,0,O
+27,LALIGA,1718,170910,Celta Vigo,Alaves,0,0,O
+28,LALIGA,1718,170910,Villarreal,Real Betis,0,1,X
+29,LALIGA,1718,170911,Malaga,Las Palmas,2,0,X
+30,LALIGA,1718,170915,Eibar,Leganes,0,1,X
+31,LALIGA,1718,170916,Levante,Valencia,1,2,X
+32,LALIGA,1718,170916,Getafe,Barcelona,2,2,O
+33,LALIGA,1718,170916,Real Betis,Deportivo La Coruna,0,1,X
+34,LALIGA,1718,170916,Atletico Madrid,Malaga,0,0,O
+35,LALIGA,1718,170917,Alaves,Villarreal,2,2,O
+36,LALIGA,1718,170917,Girona,Sevilla,2,2,O
+37,LALIGA,1718,170917,Las Palmas,Athletic Bilbao,0,2,X
+38,LALIGA,1718,170917,Real Sociedad,Real Madrid,2,2,O
+39,LALIGA,1718,170918,Espanyol,Celta Vigo,0,1,X
+40,LALIGA,1718,170919,Valencia,Malaga,0,0,O
+41,LALIGA,1718,170919,Barcelona,Eibar,0,0,O
+42,LALIGA,1718,170920,Leganes,Girona,1,0,X
+43,LALIGA,1718,170920,Athletic Bilbao,Atletico Madrid,2,2,O
+44,LALIGA,1718,170920,Deportivo La Coruna,Alaves,0,0,O
+45,LALIGA,1718,170920,Real Madrid,Real Betis,2,0,X
+46,LALIGA,1718,170920,Sevilla,Las Palmas,0,0,O
+47,LALIGA,1718,170921,Villarreal,Espanyol,1,0,X
+48,LALIGA,1718,170921,Celta Vigo,Getafe,1,0,X
+49,LALIGA,1718,170921,Levante,Real Sociedad,0,2,X
+50,LALIGA,1718,170923,Atletico Madrid,Sevilla,0,0,O
+51,LALIGA,1718,170923,Alaves,Real Madrid,2,2,O
+52,LALIGA,1718,170923,Malaga,Athletic Bilbao,1,1,O
+53,LALIGA,1718,170923,Girona,Barcelona,2,2,O
+54,LALIGA,1718,170924,Espanyol,Deportivo La Coruna,0,1,X
+55,LALIGA,1718,170924,Getafe,Villarreal,0,2,X
+56,LALIGA,1718,170924,Eibar,Celta Vigo,2,1,X
+57,LALIGA,1718,170924,Las Palmas,Leganes,2,1,X
+58,LALIGA,1718,170924,Real Sociedad,Valencia,2,1,X
+59,LALIGA,1718,170925,Real Betis,Levante,0,0,O
+60,LALIGA,1718,170929,Celta Vigo,Girona,1,0,X
+61,LALIGA,1718,170930,Deportivo La Coruna,Getafe,0,1,X
+62,LALIGA,1718,170930,Sevilla,Malaga,0,0,O
+63,LALIGA,1718,170930,Levante,Alaves,2,0,X
+64,LALIGA,1718,170930,Leganes,Atletico Madrid,1,2,X
+65,LALIGA,1718,171001,Real Sociedad,Real Betis,1,1,O
+66,LALIGA,1718,171001,Barcelona,Las Palmas,0,0,O
+67,LALIGA,1718,171001,Villarreal,Eibar,0,1,X
+68,LALIGA,1718,171001,Valencia,Athletic Bilbao,0,0,O
+69,LALIGA,1718,171001,Real Madrid,Espanyol,0,0,O
+70,LALIGA,1718,171013,Espanyol,Levante,1,0,X
+71,LALIGA,1718,171014,Athletic Bilbao,Sevilla,0,1,X
+72,LALIGA,1718,171014,Getafe,Real Madrid,2,2,O
+73,LALIGA,1718,171014,Alaves,Real Sociedad,2,2,O
+74,LALIGA,1718,171014,Atletico Madrid,Barcelona,1,2,X
+75,LALIGA,1718,171015,Eibar,Deportivo La Coruna,1,0,X
+76,LALIGA,1718,171015,Girona,Villarreal,2,2,O
+77,LALIGA,1718,171015,Malaga,Leganes,2,1,X
+78,LALIGA,1718,171015,Real Betis,Valencia,2,2,O
+79,LALIGA,1718,171016,Las Palmas,Celta Vigo,2,1,X
+80,LALIGA,1718,171021,Levante,Getafe,1,2,X
+81,LALIGA,1718,171021,Real Betis,Alaves,0,0,O
+82,LALIGA,1718,171021,Valencia,Sevilla,0,1,X
+83,LALIGA,1718,171021,Barcelona,Malaga,0,0,O
+84,LALIGA,1718,171022,Villarreal,Las Palmas,0,0,O
+85,LALIGA,1718,171022,Celta Vigo,Atletico Madrid,2,2,O
+86,LALIGA,1718,171022,Leganes,Athletic Bilbao,0,1,X
+87,LALIGA,1718,171022,Real Madrid,Eibar,0,0,O
+88,LALIGA,1718,171023,Real Sociedad,Espanyol,1,1,O
+89,LALIGA,1718,171023,Deportivo La Coruna,Girona,2,1,X
+90,LALIGA,1718,171028,Alaves,Valencia,2,2,O
+91,LALIGA,1718,171028,Atletico Madrid,Villarreal,1,0,X
+92,LALIGA,1718,171028,Athletic Bilbao,Barcelona,2,2,O
+93,LALIGA,1718,171028,Sevilla,Leganes,0,0,O
+94,LALIGA,1718,171029,Getafe,Real Sociedad,0,2,X
+95,LALIGA,1718,171029,Girona,Real Madrid,0,2,X
+96,LALIGA,1718,171029,Eibar,Levante,1,0,X
+97,LALIGA,1718,171029,Malaga,Celta Vigo,0,2,X
+98,LALIGA,1718,171030,Las Palmas,Deportivo La Coruna,2,1,X
+99,LALIGA,1718,171030,Espanyol,Real Betis,0,1,X
+100,LALIGA,1718,171103,Real Betis,Getafe,1,1,O
+101,LALIGA,1718,171104,Valencia,Leganes,0,0,O
+102,LALIGA,1718,171104,Deportivo La Coruna,Atletico Madrid,2,2,O
+103,LALIGA,1718,171104,Alaves,Espanyol,0,2,X
+104,LALIGA,1718,171104,Barcelona,Sevilla,0,0,O
+105,LALIGA,1718,171105,Levante,Girona,2,1,X
+106,LALIGA,1718,171105,Celta Vigo,Athletic Bilbao,0,1,X
+107,LALIGA,1718,171105,Villarreal,Malaga,0,0,O
+108,LALIGA,1718,171105,Real Sociedad,Eibar,0,0,O
+109,LALIGA,1718,171105,Real Madrid,Las Palmas,0,0,O
+110,LALIGA,1718,171117,Girona,Real Sociedad,1,2,X
+111,LALIGA,1718,171118,Getafe,Alaves,0,1,X
+112,LALIGA,1718,171118,Leganes,Barcelona,2,2,O
+113,LALIGA,1718,171118,Sevilla,Celta Vigo,0,1,X
+114,LALIGA,1718,171118,Atletico Madrid,Real Madrid,1,2,X
+115,LALIGA,1718,171119,Malaga,Deportivo La Coruna,0,1,X
+116,LALIGA,1718,171119,Espanyol,Valencia,2,2,O
+117,LALIGA,1718,171119,Las Palmas,Levante,2,0,X
+118,LALIGA,1718,171119,Athletic Bilbao,Villarreal,1,1,O
+119,LALIGA,1718,171120,Eibar,Real Betis,0,1,X
+120,LALIGA,1718,171124,Celta Vigo,Leganes,0,1,X
+121,LALIGA,1718,171125,Alaves,Eibar,2,2,O
+122,LALIGA,1718,171125,Real Madrid,Malaga,0,0,O
+123,LALIGA,1718,171125,Real Betis,Girona,1,1,O
+124,LALIGA,1718,171125,Levante,Atletico Madrid,2,2,O
+125,LALIGA,1718,171126,Deportivo La Coruna,Athletic Bilbao,1,1,O
+126,LALIGA,1718,171126,Real Sociedad,Las Palmas,1,0,X
+127,LALIGA,1718,171126,Villarreal,Sevilla,2,1,X
+128,LALIGA,1718,171126,Valencia,Barcelona,1,2,X
+129,LALIGA,1718,171127,Espanyol,Getafe,0,1,X
+130,LALIGA,1718,171201,Malaga,Levante,1,0,X
+131,LALIGA,1718,171202,Barcelona,Celta Vigo,1,0,X
+132,LALIGA,1718,171202,Atletico Madrid,Real Sociedad,0,0,O
+133,LALIGA,1718,171202,Sevilla,Deportivo La Coruna,0,0,O
+134,LALIGA,1718,171202,Athletic Bilbao,Real Madrid,1,2,X
+135,LALIGA,1718,171203,Leganes,Villarreal,0,2,X
+136,LALIGA,1718,171203,Getafe,Valencia,0,2,X
+137,LALIGA,1718,171203,Eibar,Espanyol,0,1,X
+138,LALIGA,1718,171203,Las Palmas,Real Betis,0,1,X
+139,LALIGA,1718,171204,Girona,Alaves,2,0,X
+140,LALIGA,1718,171208,Alaves,Las Palmas,0,2,X
+141,LALIGA,1718,171209,Getafe,Eibar,1,0,X
+142,LALIGA,1718,171209,Real Madrid,Sevilla,0,0,O
+143,LALIGA,1718,171209,Deportivo La Coruna,Leganes,0,2,X
+144,LALIGA,1718,171209,Valencia,Celta Vigo,0,0,O
+145,LALIGA,1718,171210,Real Sociedad,Malaga,2,0,X
+146,LALIGA,1718,171210,Real Betis,Atletico Madrid,2,2,O
+147,LALIGA,1718,171210,Levante,Athletic Bilbao,2,2,O
+148,LALIGA,1718,171210,Villarreal,Barcelona,2,2,O
+149,LALIGA,1718,171211,Espanyol,Girona,2,1,X
+150,LALIGA,1718,171215,Sevilla,Levante,1,0,X
+151,LALIGA,1718,171216,Athletic Bilbao,Real Sociedad,1,1,O
+152,LALIGA,1718,171216,Eibar,Valencia,0,2,X
+153,LALIGA,1718,171216,Atletico Madrid,Alaves,0,0,O
+154,LALIGA,1718,171217,Girona,Getafe,0,1,X
+155,LALIGA,1718,171217,Celta Vigo,Villarreal,2,1,X
+156,LALIGA,1718,171217,Las Palmas,Espanyol,1,1,O
+157,LALIGA,1718,171217,Barcelona,Deportivo La Coruna,0,0,O
+158,LALIGA,1718,171218,Malaga,Real Betis,2,0,X
+159,LALIGA,1718,171219,Levante,Leganes,1,1,O
+160,LALIGA,1718,171220,Getafe,Las Palmas,0,0,O
+161,LALIGA,1718,171220,Real Sociedad,Sevilla,0,1,X
+162,LALIGA,1718,171221,Eibar,Girona,0,0,O
+163,LALIGA,1718,171221,Alaves,Malaga,0,1,X
+164,LALIGA,1718,171222,Real Betis,Athletic Bilbao,2,1,X
+165,LALIGA,1718,171222,Espanyol,Atletico Madrid,0,2,X
+166,LALIGA,1718,171223,Real Madrid,Barcelona,2,1,X
+167,LALIGA,1718,171223,Valencia,Villarreal,2,1,X
+168,LALIGA,1718,171223,Deportivo La Coruna,Celta Vigo,2,2,O
+169,LALIGA,1718,180106,Atletico Madrid,Getafe,0,0,O
+170,LALIGA,1718,180106,Valencia,Girona,0,0,O
+171,LALIGA,1718,180106,Las Palmas,Eibar,2,2,O
+172,LALIGA,1718,180106,Sevilla,Real Betis,2,0,X
+173,LALIGA,1718,180107,Leganes,Real Sociedad,0,2,X
+174,LALIGA,1718,180107,Barcelona,Levante,0,0,O
+175,LALIGA,1718,180107,Villarreal,Deportivo La Coruna,1,0,X
+176,LALIGA,1718,180107,Athletic Bilbao,Alaves,0,0,O
+177,LALIGA,1718,180107,Celta Vigo,Real Madrid,1,2,X
+178,LALIGA,1718,180108,Malaga,Espanyol,2,2,O
+179,LALIGA,1718,180112,Getafe,Malaga,0,0,O
+180,LALIGA,1718,180113,Girona,Las Palmas,0,0,O
+181,LALIGA,1718,180113,Real Madrid,Villarreal,2,0,X
+182,LALIGA,1718,180113,Eibar,Atletico Madrid,2,2,O
+183,LALIGA,1718,180113,Deportivo La Coruna,Valencia,2,2,O
+184,LALIGA,1718,180114,Levante,Celta Vigo,2,2,O
+185,LALIGA,1718,180114,Alaves,Sevilla,0,2,X
+186,LALIGA,1718,180114,Espanyol,Athletic Bilbao,1,1,O
+187,LALIGA,1718,180114,Real Sociedad,Barcelona,2,2,O
+188,LALIGA,1718,180115,Real Betis,Leganes,0,1,X
+189,LALIGA,1718,180119,Getafe,Athletic Bilbao,1,2,X
+190,LALIGA,1718,180120,Espanyol,Sevilla,2,1,X
+191,LALIGA,1718,180120,Atletico Madrid,Girona,1,0,X
+192,LALIGA,1718,180120,Villarreal,Levante,0,0,O
+193,LALIGA,1718,180120,Las Palmas,Valencia,0,2,X
+194,LALIGA,1718,180121,Alaves,Leganes,1,1,O
+195,LALIGA,1718,180121,Real Madrid,Deportivo La Coruna,0,0,O
+196,LALIGA,1718,180121,Real Sociedad,Celta Vigo,2,0,X
+197,LALIGA,1718,180121,Real Betis,Barcelona,2,2,O
+198,LALIGA,1718,180122,Eibar,Malaga,1,0,X
+199,LALIGA,1718,180126,Athletic Bilbao,Eibar,1,0,X
+200,LALIGA,1718,180127,Deportivo La Coruna,Levante,1,0,X
+201,LALIGA,1718,180127,Valencia,Real Madrid,2,2,O
+202,LALIGA,1718,180127,Malaga,Girona,1,0,X
+203,LALIGA,1718,180127,Villarreal,Real Sociedad,0,1,X
+204,LALIGA,1718,180128,Leganes,Espanyol,0,2,X
+205,LALIGA,1718,180128,Atletico Madrid,Las Palmas,0,0,O
+206,LALIGA,1718,180128,Sevilla,Getafe,1,0,X
+207,LALIGA,1718,180128,Barcelona,Alaves,0,0,O
+208,LALIGA,1718,180129,Celta Vigo,Real Betis,0,1,X
+209,LALIGA,1718,180202,Real Sociedad,Deportivo La Coruna,0,0,O
+210,LALIGA,1718,180203,Eibar,Sevilla,0,2,X
+211,LALIGA,1718,180203,Real Betis,Villarreal,0,2,X
+212,LALIGA,1718,180203,Alaves,Celta Vigo,0,2,X
+213,LALIGA,1718,180203,Levante,Real Madrid,1,2,X
+214,LALIGA,1718,180204,Getafe,Leganes,1,1,O
+215,LALIGA,1718,180204,Espanyol,Barcelona,1,2,X
+216,LALIGA,1718,180204,Girona,Athletic Bilbao,0,2,X
+217,LALIGA,1718,180204,Atletico Madrid,Valencia,0,0,O
+218,LALIGA,1718,180205,Las Palmas,Malaga,0,1,X
+219,LALIGA,1718,180209,Athletic Bilbao,Las Palmas,1,0,X
+220,LALIGA,1718,180210,Villarreal,Alaves,2,0,X
+221,LALIGA,1718,180210,Malaga,Atletico Madrid,2,2,O
+222,LALIGA,1718,180210,Leganes,Eibar,2,2,O
+223,LALIGA,1718,180210,Real Madrid,Real Sociedad,0,0,O
+224,LALIGA,1718,180211,Sevilla,Girona,0,0,O
+225,LALIGA,1718,180211,Barcelona,Getafe,1,0,X
+226,LALIGA,1718,180211,Celta Vigo,Espanyol,1,1,O
+227,LALIGA,1718,180211,Valencia,Levante,0,0,O
+228,LALIGA,1718,180212,Deportivo La Coruna,Real Betis,2,1,X
+229,LALIGA,1718,180216,Girona,Leganes,0,0,O
+230,LALIGA,1718,180217,Las Palmas,Sevilla,2,2,O
+231,LALIGA,1718,180217,Eibar,Barcelona,2,2,O
+232,LALIGA,1718,180217,Alaves,Deportivo La Coruna,0,1,X
+233,LALIGA,1718,180217,Malaga,Valencia,2,2,O
+234,LALIGA,1718,180218,Real Sociedad,Levante,0,0,O
+235,LALIGA,1718,180218,Atletico Madrid,Athletic Bilbao,0,0,O
+236,LALIGA,1718,180218,Espanyol,Villarreal,1,2,X
+237,LALIGA,1718,180218,Real Betis,Real Madrid,2,2,O
+238,LALIGA,1718,180219,Getafe,Celta Vigo,0,2,X
+239,LALIGA,1718,180221,Leganes,Real Madrid,2,2,O
+240,LALIGA,1718,180223,Deportivo La Coruna,Espanyol,1,1,O
+241,LALIGA,1718,180224,Celta Vigo,Eibar,0,1,X
+242,LALIGA,1718,180224,Real Madrid,Alaves,0,0,O
+243,LALIGA,1718,180224,Leganes,Las Palmas,1,0,X
+244,LALIGA,1718,180224,Barcelona,Girona,0,0,O
+245,LALIGA,1718,180225,Villarreal,Getafe,0,0,O
+246,LALIGA,1718,180225,Athletic Bilbao,Malaga,0,0,O
+247,LALIGA,1718,180225,Valencia,Real Sociedad,0,0,O
+248,LALIGA,1718,180225,Sevilla,Atletico Madrid,2,2,O
+249,LALIGA,1718,180226,Levante,Real Betis,2,2,O
+250,LALIGA,1718,180227,Espanyol,Real Madrid,0,2,X
+251,LALIGA,1718,180227,Girona,Celta Vigo,0,2,X
+252,LALIGA,1718,180228,Getafe,Deportivo La Coruna,0,1,X
+253,LALIGA,1718,180228,Athletic Bilbao,Valencia,1,2,X
+254,LALIGA,1718,180228,Malaga,Sevilla,2,2,O
+255,LALIGA,1718,180228,Atletico Madrid,Leganes,0,0,O
+256,LALIGA,1718,180228,Eibar,Villarreal,0,1,X
+257,LALIGA,1718,180301,Real Betis,Real Sociedad,1,2,X
+258,LALIGA,1718,180301,Las Palmas,Barcelona,1,2,X
+259,LALIGA,1718,180301,Alaves,Levante,0,0,O
+260,LALIGA,1718,180303,Villarreal,Girona,2,0,X
+261,LALIGA,1718,180303,Sevilla,Athletic Bilbao,0,0,O
+262,LALIGA,1718,180303,Leganes,Malaga,0,1,X
+263,LALIGA,1718,180303,Deportivo La Coruna,Eibar,1,2,X
+264,LALIGA,1718,180303,Real Madrid,Getafe,0,0,O
+265,LALIGA,1718,180304,Levante,Espanyol,1,2,X
+266,LALIGA,1718,180304,Barcelona,Atletico Madrid,0,0,O
+267,LALIGA,1718,180304,Real Sociedad,Alaves,0,0,O
+268,LALIGA,1718,180304,Valencia,Real Betis,0,0,O
+269,LALIGA,1718,180305,Celta Vigo,Las Palmas,0,0,O
+270,LALIGA,1718,180309,Girona,Deportivo La Coruna,0,0,O
+271,LALIGA,1718,180310,Eibar,Real Madrid,2,2,O
+272,LALIGA,1718,180310,Sevilla,Valencia,2,1,X
+273,LALIGA,1718,180310,Getafe,Levante,2,0,X
+274,LALIGA,1718,180310,Malaga,Barcelona,2,2,O
+275,LALIGA,1718,180311,Espanyol,Real Sociedad,0,2,X
+276,LALIGA,1718,180311,Atletico Madrid,Celta Vigo,0,0,O
+277,LALIGA,1718,180311,Las Palmas,Villarreal,2,2,O
+278,LALIGA,1718,180311,Athletic Bilbao,Leganes,0,1,X
+279,LALIGA,1718,180312,Alaves,Real Betis,2,2,O
+280,LALIGA,1718,180316,Levante,Eibar,0,2,X
+281,LALIGA,1718,180317,Deportivo La Coruna,Las Palmas,1,0,X
+282,LALIGA,1718,180317,Valencia,Alaves,0,0,O
+283,LALIGA,1718,180317,Real Sociedad,Getafe,2,0,X
+284,LALIGA,1718,180317,Real Betis,Espanyol,0,1,X
+285,LALIGA,1718,180318,Leganes,Sevilla,0,2,X
+286,LALIGA,1718,180318,Barcelona,Athletic Bilbao,0,0,O
+287,LALIGA,1718,180318,Villarreal,Atletico Madrid,0,2,X
+288,LALIGA,1718,180318,Celta Vigo,Malaga,1,0,X
+289,LALIGA,1718,180318,Real Madrid,Girona,0,0,O
+290,LALIGA,1718,180331,Girona,Levante,1,0,X
+291,LALIGA,1718,180331,Athletic Bilbao,Celta Vigo,1,1,O
+292,LALIGA,1718,180331,Las Palmas,Real Madrid,2,2,O
+293,LALIGA,1718,180331,Sevilla,Barcelona,1,2,X
+294,LALIGA,1718,180401,Espanyol,Alaves,1,1,O
+295,LALIGA,1718,180401,Leganes,Valencia,2,2,O
+296,LALIGA,1718,180401,Malaga,Villarreal,0,2,X
+297,LALIGA,1718,180401,Eibar,Real Sociedad,1,1,O
+298,LALIGA,1718,180401,Atletico Madrid,Deportivo La Coruna,0,0,O
+299,LALIGA,1718,180402,Getafe,Real Betis,2,1,X
+300,LALIGA,1718,180406,Deportivo La Coruna,Malaga,0,1,X
+301,LALIGA,1718,180407,Alaves,Getafe,0,1,X
+302,LALIGA,1718,180407,Celta Vigo,Sevilla,0,1,X
+303,LALIGA,1718,180407,Real Betis,Eibar,0,1,X
+304,LALIGA,1718,180407,Barcelona,Leganes,0,0,O
+305,LALIGA,1718,180408,Levante,Las Palmas,0,0,O
+306,LALIGA,1718,180408,Real Madrid,Atletico Madrid,1,0,X
+307,LALIGA,1718,180408,Real Sociedad,Girona,0,0,O
+308,LALIGA,1718,180408,Valencia,Espanyol,0,0,O
+309,LALIGA,1718,180409,Villarreal,Athletic Bilbao,2,1,X
+310,LALIGA,1718,180413,Girona,Real Betis,2,1,X
+311,LALIGA,1718,180414,Sevilla,Villarreal,1,0,X
+312,LALIGA,1718,180414,Barcelona,Valencia,0,0,O
+313,LALIGA,1718,180414,Leganes,Celta Vigo,0,2,X
+314,LALIGA,1718,180414,Las Palmas,Real Sociedad,2,2,O
+315,LALIGA,1718,180414,Athletic Bilbao,Deportivo La Coruna,2,0,X
+316,LALIGA,1718,180415,Eibar,Alaves,2,1,X
+317,LALIGA,1718,180415,Atletico Madrid,Levante,0,0,O
+318,LALIGA,1718,180415,Getafe,Espanyol,0,2,X
+319,LALIGA,1718,180415,Malaga,Real Madrid,2,2,O
+320,LALIGA,1718,180417,Deportivo La Coruna,Sevilla,1,2,X
+321,LALIGA,1718,180417,Celta Vigo,Barcelona,1,2,X
+322,LALIGA,1718,180417,Villarreal,Leganes,0,0,O
+323,LALIGA,1718,180418,Espanyol,Eibar,2,1,X
+324,LALIGA,1718,180418,Valencia,Getafe,2,0,X
+325,LALIGA,1718,180418,Real Madrid,Athletic Bilbao,1,0,X
+326,LALIGA,1718,180419,Alaves,Girona,2,1,X
+327,LALIGA,1718,180419,Real Sociedad,Atletico Madrid,0,2,X
+328,LALIGA,1718,180419,Real Betis,Las Palmas,0,0,O
+329,LALIGA,1718,180419,Levante,Malaga,0,0,O
+330,LALIGA,1718,180420,Leganes,Deportivo La Coruna,1,2,X
+331,LALIGA,1718,180421,Eibar,Getafe,2,1,X
+332,LALIGA,1718,180421,Celta Vigo,Valencia,1,2,X
+333,LALIGA,1718,180422,Girona,Espanyol,2,1,X
+334,LALIGA,1718,180422,Malaga,Real Sociedad,0,2,X
+335,LALIGA,1718,180422,Las Palmas,Alaves,2,2,O
+336,LALIGA,1718,180422,Atletico Madrid,Real Betis,1,0,X
+337,LALIGA,1718,180423,Athletic Bilbao,Levante,2,0,X
+338,LALIGA,1718,180427,Levante,Sevilla,0,2,X
+339,LALIGA,1718,180428,Espanyol,Las Palmas,1,0,X
+340,LALIGA,1718,180428,Real Sociedad,Athletic Bilbao,0,1,X
+341,LALIGA,1718,180428,Real Madrid,Leganes,0,0,O
+342,LALIGA,1718,180428,Villarreal,Celta Vigo,0,0,O
+343,LALIGA,1718,180429,Getafe,Girona,1,1,O
+344,LALIGA,1718,180429,Alaves,Atletico Madrid,2,2,O
+345,LALIGA,1718,180429,Valencia,Eibar,1,0,X
+346,LALIGA,1718,180429,Deportivo La Coruna,Barcelona,2,2,O
+347,LALIGA,1718,180430,Real Betis,Malaga,0,0,O
+348,LALIGA,1718,180504,Sevilla,Real Sociedad,0,1,X
+349,LALIGA,1718,180505,Girona,Eibar,2,1,X
+350,LALIGA,1718,180505,Athletic Bilbao,Real Betis,0,2,X
+351,LALIGA,1718,180505,Celta Vigo,Deportivo La Coruna,1,0,X
+352,LALIGA,1718,180505,Villarreal,Valencia,0,1,X
+353,LALIGA,1718,180506,Malaga,Alaves,2,1,X
+354,LALIGA,1718,180506,Atletico Madrid,Espanyol,2,0,X
+355,LALIGA,1718,180506,Las Palmas,Getafe,2,2,O
+356,LALIGA,1718,180506,Barcelona,Real Madrid,1,0,X
+357,LALIGA,1718,180507,Leganes,Levante,2,1,X
+358,LALIGA,1718,180509,Barcelona,Villarreal,0,0,O
+359,LALIGA,1718,180509,Sevilla,Real Madrid,0,2,X
+360,LALIGA,1718,180512,Real Sociedad,Leganes,0,0,O
+361,LALIGA,1718,180512,Eibar,Las Palmas,0,0,O
+362,LALIGA,1718,180512,Girona,Valencia,2,2,O
+363,LALIGA,1718,180512,Deportivo La Coruna,Villarreal,2,2,O
+364,LALIGA,1718,180512,Real Betis,Sevilla,1,2,X
+365,LALIGA,1718,180512,Alaves,Athletic Bilbao,0,1,X
+366,LALIGA,1718,180512,Getafe,Atletico Madrid,2,2,O
+367,LALIGA,1718,180512,Real Madrid,Celta Vigo,0,0,O
+368,LALIGA,1718,180513,Espanyol,Malaga,0,0,O
+369,LALIGA,1718,180513,Levante,Barcelona,0,2,X
+370,LALIGA,1718,180519,Celta Vigo,Levante,0,0,O
+371,LALIGA,1718,180519,Leganes,Real Betis,0,2,X
+372,LALIGA,1718,180519,Sevilla,Alaves,0,0,O
+373,LALIGA,1718,180519,Malaga,Getafe,2,2,O
+374,LALIGA,1718,180519,Las Palmas,Girona,2,2,O
+375,LALIGA,1718,180519,Villarreal,Real Madrid,1,2,X
+376,LALIGA,1718,180520,Valencia,Deportivo La Coruna,0,0,O
+377,LALIGA,1718,180520,Athletic Bilbao,Espanyol,2,1,X
+378,LALIGA,1718,180520,Atletico Madrid,Eibar,1,0,X
+379,LALIGA,1718,180520,Barcelona,Real Sociedad,0,0,O
+380,EPL,1718,170811,Arsenal,Leicester,0,0,O
+381,EPL,1718,170812,Watford,Liverpool,1,2,X
+382,EPL,1718,170812,West Bromwich Albion,Bournemouth,0,2,X
+383,EPL,1718,170812,Southampton,Swansea,1,0,X
+384,EPL,1718,170812,Chelsea,Burnley,2,0,X
+385,EPL,1718,170812,Crystal Palace,Huddersfield,2,0,X
+386,EPL,1718,170812,Everton,Stoke,0,0,O
+387,EPL,1718,170812,Brighton,Manchester City,2,2,O
+388,EPL,1718,170813,Newcastle United,Tottenham,2,2,O
+389,EPL,1718,170813,Manchester United,West Ham,0,0,O
+390,EPL,1718,170819,Swansea,Manchester United,2,2,O
+391,EPL,1718,170819,Southampton,West Ham,0,0,O
+392,EPL,1718,170819,Bournemouth,Watford,2,1,X
+393,EPL,1718,170819,Burnley,West Bromwich Albion,2,2,O
+394,EPL,1718,170819,Leicester,Brighton,0,0,O
+395,EPL,1718,170819,Liverpool,Crystal Palace,0,0,O
+396,EPL,1718,170819,Stoke,Arsenal,0,2,X
+397,EPL,1718,170820,Huddersfield,Newcastle United,0,2,X
+398,EPL,1718,170820,Tottenham,Chelsea,2,1,X
+399,EPL,1718,170821,Manchester City,Everton,1,0,X
+400,EPL,1718,170826,Bournemouth,Manchester City,2,2,O
+401,EPL,1718,170826,Newcastle United,West Ham,0,1,X
+402,EPL,1718,170826,Watford,Brighton,1,0,X
+403,EPL,1718,170826,Crystal Palace,Swansea,2,1,X
+404,EPL,1718,170826,Huddersfield,Southampton,1,2,X
+405,EPL,1718,170826,Manchester United,Leicester,0,0,O
+406,EPL,1718,170827,West Bromwich Albion,Stoke,1,1,O
+407,EPL,1718,170827,Chelsea,Everton,0,0,O
+408,EPL,1718,170827,Tottenham,Burnley,1,0,X
+409,EPL,1718,170827,Liverpool,Arsenal,0,1,X
+410,EPL,1718,170909,Manchester City,Liverpool,0,0,O
+411,EPL,1718,170909,Southampton,Watford,2,0,X
+412,EPL,1718,170909,Leicester,Chelsea,2,2,O
+413,EPL,1718,170909,Arsenal,Bournemouth,0,0,O
+414,EPL,1718,170909,Brighton,West Bromwich Albion,0,2,X
+415,EPL,1718,170909,Everton,Tottenham,2,2,O
+416,EPL,1718,170909,Stoke,Manchester United,1,2,X
+417,EPL,1718,170910,Burnley,Crystal Palace,0,0,O
+418,EPL,1718,170910,Swansea,Newcastle United,2,1,X
+419,EPL,1718,170911,West Ham,Huddersfield,0,0,O
+420,EPL,1718,170915,Bournemouth,Brighton,0,1,X
+421,EPL,1718,170916,Crystal Palace,Southampton,2,2,O
+422,EPL,1718,170916,Huddersfield,Leicester,1,2,X
+423,EPL,1718,170916,Liverpool,Burnley,1,0,X
+424,EPL,1718,170916,Newcastle United,Stoke,0,1,X
+425,EPL,1718,170916,Watford,Manchester City,2,2,O
+426,EPL,1718,170916,West Bromwich Albion,West Ham,1,1,O
+427,EPL,1718,170916,Tottenham,Swansea,1,0,X
+428,EPL,1718,170917,Chelsea,Arsenal,1,1,O
+429,EPL,1718,170917,Manchester United,Everton,0,0,O
+430,EPL,1718,170923,West Ham,Tottenham,2,2,O
+431,EPL,1718,170923,Stoke,Chelsea,2,2,O
+432,EPL,1718,170923,Swansea,Watford,2,1,X
+433,EPL,1718,170923,Southampton,Manchester United,2,2,O
+434,EPL,1718,170923,Manchester City,Crystal Palace,0,0,O
+435,EPL,1718,170923,Burnley,Huddersfield,1,0,X
+436,EPL,1718,170923,Everton,Bournemouth,0,0,O
+437,EPL,1718,170923,Leicester,Liverpool,2,2,O
+438,EPL,1718,170924,Brighton,Newcastle United,0,2,X
+439,EPL,1718,170925,Arsenal,West Bromwich Albion,0,0,O
+440,EPL,1718,170930,Huddersfield,Tottenham,2,2,O
+441,EPL,1718,170930,Manchester United,Crystal Palace,0,0,O
+442,EPL,1718,170930,Stoke,Southampton,0,2,X
+443,EPL,1718,170930,West Bromwich Albion,Watford,1,1,O
+444,EPL,1718,170930,West Ham,Swansea,0,0,O
+445,EPL,1718,170930,Bournemouth,Leicester,1,2,X
+446,EPL,1718,170930,Chelsea,Manchester City,2,1,X
+447,EPL,1718,171001,Arsenal,Brighton,0,0,O
+448,EPL,1718,171001,Everton,Burnley,2,0,X
+449,EPL,1718,171001,Newcastle United,Liverpool,1,2,X
+450,EPL,1718,171014,Liverpool,Manchester United,1,1,O
+451,EPL,1718,171014,Manchester City,Stoke,0,0,O
+452,EPL,1718,171014,Burnley,West Ham,1,2,X
+453,EPL,1718,171014,Crystal Palace,Chelsea,0,2,X
+454,EPL,1718,171014,Swansea,Huddersfield,0,1,X
+455,EPL,1718,171014,Tottenham,Bournemouth,0,0,O
+456,EPL,1718,171014,Watford,Arsenal,0,2,X
+457,EPL,1718,171015,Brighton,Everton,1,2,X
+458,EPL,1718,171015,Southampton,Newcastle United,1,1,O
+459,EPL,1718,171016,Leicester,West Bromwich Albion,1,1,O
+460,EPL,1718,171020,West Ham,Brighton,2,0,X
+461,EPL,1718,171021,Chelsea,Watford,0,0,O
+462,EPL,1718,171021,Huddersfield,Manchester United,0,2,X
+463,EPL,1718,171021,Manchester City,Burnley,0,0,O
+464,EPL,1718,171021,Newcastle United,Crystal Palace,0,1,X
+465,EPL,1718,171021,Stoke,Bournemouth,2,1,X
+466,EPL,1718,171021,Swansea,Leicester,2,2,O
+467,EPL,1718,171021,Southampton,West Bromwich Albion,0,0,O
+468,EPL,1718,171022,Everton,Arsenal,2,2,O
+469,EPL,1718,171022,Tottenham,Liverpool,0,1,X
+470,EPL,1718,171028,Manchester United,Tottenham,0,0,O
+471,EPL,1718,171028,Liverpool,Huddersfield,0,0,O
+472,EPL,1718,171028,Crystal Palace,West Ham,1,1,O
+473,EPL,1718,171028,Arsenal,Swansea,0,0,O
+474,EPL,1718,171028,West Bromwich Albion,Manchester City,2,2,O
+475,EPL,1718,171028,Watford,Stoke,2,0,X
+476,EPL,1718,171028,Bournemouth,Chelsea,2,2,O
+477,EPL,1718,171029,Brighton,Southampton,1,2,X
+478,EPL,1718,171029,Leicester,Everton,0,1,X
+479,EPL,1718,171030,Burnley,Newcastle United,0,2,X
+480,EPL,1718,171104,Stoke,Leicester,1,1,O
+481,EPL,1718,171104,Swansea,Brighton,2,1,X
+482,EPL,1718,171104,Newcastle United,Bournemouth,2,1,X
+483,EPL,1718,171104,Southampton,Burnley,2,0,X
+484,EPL,1718,171104,Huddersfield,West Bromwich Albion,0,2,X
+485,EPL,1718,171104,West Ham,Liverpool,2,2,O
+486,EPL,1718,171105,Tottenham,Crystal Palace,0,0,O
+487,EPL,1718,171105,Manchester City,Arsenal,0,0,O
+488,EPL,1718,171105,Chelsea,Manchester United,0,1,X
+489,EPL,1718,171105,Everton,Watford,0,2,X
+490,EPL,1718,171118,Arsenal,Tottenham,0,1,X
+491,EPL,1718,171118,Bournemouth,Huddersfield,0,0,O
+492,EPL,1718,171118,Burnley,Swansea,0,0,O
+493,EPL,1718,171118,Crystal Palace,Everton,1,1,O
+494,EPL,1718,171118,Leicester,Manchester City,2,2,O
+495,EPL,1718,171118,West Bromwich Albion,Chelsea,2,2,O
+496,EPL,1718,171118,Liverpool,Southampton,0,0,O
+497,EPL,1718,171118,Manchester United,Newcastle United,0,0,O
+498,EPL,1718,171119,Watford,West Ham,0,0,O
+499,EPL,1718,171120,Brighton,Stoke,1,2,X
+500,EPL,1718,171124,West Ham,Leicester,1,2,X
+501,EPL,1718,171125,Swansea,Bournemouth,1,2,X
+502,EPL,1718,171125,Manchester United,Brighton,0,0,O
+503,EPL,1718,171125,Newcastle United,Watford,2,2,O
+504,EPL,1718,171125,Crystal Palace,Stoke,0,0,O
+505,EPL,1718,171125,Tottenham,West Bromwich Albion,1,0,X
+506,EPL,1718,171125,Liverpool,Chelsea,1,1,O
+507,EPL,1718,171126,Southampton,Everton,0,0,O
+508,EPL,1718,171126,Burnley,Arsenal,2,2,O
+509,EPL,1718,171126,Huddersfield,Manchester City,2,2,O
+510,EPL,1718,171128,Leicester,Tottenham,0,2,X
+511,EPL,1718,171128,Brighton,Crystal Palace,1,2,X
+512,EPL,1718,171128,Watford,Manchester United,2,2,O
+513,EPL,1718,171128,West Bromwich Albion,Newcastle United,1,2,X
+514,EPL,1718,171129,Bournemouth,Burnley,2,1,X
+515,EPL,1718,171129,Arsenal,Huddersfield,0,0,O
+516,EPL,1718,171129,Chelsea,Swansea,0,0,O
+517,EPL,1718,171129,Everton,West Ham,0,2,X
+518,EPL,1718,171129,Manchester City,Southampton,0,0,O
+519,EPL,1718,171129,Stoke,Liverpool,2,2,O
+520,EPL,1718,171202,Chelsea,Newcastle United,0,0,O
+521,EPL,1718,171202,Everton,Huddersfield,0,0,O
+522,EPL,1718,171202,Brighton,Liverpool,2,2,O
+523,EPL,1718,171202,Stoke,Swansea,0,1,X
+524,EPL,1718,171202,Watford,Tottenham,1,2,X
+525,EPL,1718,171202,West Bromwich Albion,Crystal Palace,1,2,X
+526,EPL,1718,171202,Leicester,Burnley,0,0,O
+527,EPL,1718,171202,Arsenal,Manchester United,2,2,O
+528,EPL,1718,171203,Bournemouth,Southampton,1,2,X
+529,EPL,1718,171203,Manchester City,West Ham,0,0,O
+530,EPL,1718,171209,West Ham,Chelsea,0,2,X
+531,EPL,1718,171209,Tottenham,Stoke,0,0,O
+532,EPL,1718,171209,Swansea,West Bromwich Albion,0,1,X
+533,EPL,1718,171209,Burnley,Watford,0,2,X
+534,EPL,1718,171209,Crystal Palace,Bournemouth,1,1,O
+535,EPL,1718,171209,Huddersfield,Brighton,0,2,X
+536,EPL,1718,171209,Newcastle United,Leicester,2,1,X
+537,EPL,1718,171210,Southampton,Arsenal,1,2,X
+538,EPL,1718,171210,Liverpool,Everton,1,0,X
+539,EPL,1718,171210,Manchester United,Manchester City,2,2,O
+540,EPL,1718,171212,Burnley,Stoke,0,1,X
+541,EPL,1718,171212,Huddersfield,Chelsea,2,2,O
+542,EPL,1718,171212,Crystal Palace,Watford,0,1,X
+543,EPL,1718,171213,Swansea,Manchester City,2,2,O
+544,EPL,1718,171213,Newcastle United,Everton,2,0,X
+545,EPL,1718,171213,Southampton,Leicester,2,1,X
+546,EPL,1718,171213,Liverpool,West Bromwich Albion,1,0,X
+547,EPL,1718,171213,Tottenham,Brighton,0,0,O
+548,EPL,1718,171213,West Ham,Arsenal,1,2,X
+549,EPL,1718,171213,Manchester United,Bournemouth,0,0,O
+550,EPL,1718,171216,Leicester,Crystal Palace,2,0,X
+551,EPL,1718,171216,Brighton,Burnley,1,2,X
+552,EPL,1718,171216,Chelsea,Southampton,0,0,O
+553,EPL,1718,171216,Arsenal,Newcastle United,0,0,O
+554,EPL,1718,171216,Watford,Huddersfield,2,0,X
+555,EPL,1718,171216,Stoke,West Ham,2,1,X
+556,EPL,1718,171216,Manchester City,Tottenham,0,0,O
+557,EPL,1718,171217,West Bromwich Albion,Manchester United,2,2,O
+558,EPL,1718,171217,Bournemouth,Liverpool,2,2,O
+559,EPL,1718,171218,Everton,Swansea,0,0,O
+560,EPL,1718,171222,Arsenal,Liverpool,1,1,O
+561,EPL,1718,171223,Everton,Chelsea,1,2,X
+562,EPL,1718,171223,Manchester City,Bournemouth,0,0,O
+563,EPL,1718,171223,Stoke,West Bromwich Albion,0,0,O
+564,EPL,1718,171223,Southampton,Huddersfield,1,0,X
+565,EPL,1718,171223,Brighton,Watford,0,2,X
+566,EPL,1718,171223,Swansea,Crystal Palace,1,2,X
+567,EPL,1718,171223,West Ham,Newcastle United,2,0,X
+568,EPL,1718,171223,Burnley,Tottenham,2,2,O
+569,EPL,1718,171223,Leicester,Manchester United,1,2,X
+570,EPL,1718,171226,Tottenham,Southampton,0,0,O
+571,EPL,1718,171226,Watford,Leicester,0,1,X
+572,EPL,1718,171226,West Bromwich Albion,Everton,1,1,O
+573,EPL,1718,171226,Manchester United,Burnley,1,0,X
+574,EPL,1718,171226,Bournemouth,West Ham,1,2,X
+575,EPL,1718,171226,Chelsea,Brighton,0,0,O
+576,EPL,1718,171226,Huddersfield,Stoke,1,2,X
+577,EPL,1718,171226,Liverpool,Swansea,0,0,O
+578,EPL,1718,171227,Newcastle United,Manchester City,2,2,O
+579,EPL,1718,171228,Crystal Palace,Arsenal,2,2,O
+580,EPL,1718,171230,Huddersfield,Burnley,1,1,O
+581,EPL,1718,171230,Liverpool,Leicester,0,0,O
+582,EPL,1718,171230,Bournemouth,Everton,0,1,X
+583,EPL,1718,171230,Chelsea,Stoke,0,0,O
+584,EPL,1718,171230,Newcastle United,Brighton,1,2,X
+585,EPL,1718,171230,Watford,Swansea,2,0,X
+586,EPL,1718,171230,Manchester United,Southampton,1,0,X
+587,EPL,1718,171231,Crystal Palace,Manchester City,1,2,X
+588,EPL,1718,171231,West Bromwich Albion,Arsenal,1,2,X
+589,EPL,1718,180101,Brighton,Bournemouth,1,1,O
+590,EPL,1718,180101,Burnley,Liverpool,2,2,O
+591,EPL,1718,180101,Leicester,Huddersfield,0,0,O
+592,EPL,1718,180101,Stoke,Newcastle United,2,1,X
+593,EPL,1718,180101,Everton,Manchester United,2,2,O
+594,EPL,1718,180102,West Ham,West Bromwich Albion,0,0,O
+595,EPL,1718,180102,Swansea,Tottenham,2,2,O
+596,EPL,1718,180102,Southampton,Crystal Palace,2,0,X
+597,EPL,1718,180102,Manchester City,Watford,0,0,O
+598,EPL,1718,180103,Arsenal,Chelsea,1,1,O
+599,EPL,1718,180104,Tottenham,West Ham,1,0,X
+600,EPL,1718,180113,Newcastle United,Swansea,1,0,X
+601,EPL,1718,180113,Chelsea,Leicester,1,0,X
+602,EPL,1718,180113,Crystal Palace,Burnley,0,0,O
+603,EPL,1718,180113,Huddersfield,West Ham,2,2,O
+604,EPL,1718,180113,Watford,Southampton,1,1,O
+605,EPL,1718,180113,West Bromwich Albion,Brighton,0,0,O
+606,EPL,1718,180113,Tottenham,Everton,0,0,O
+607,EPL,1718,180114,Bournemouth,Arsenal,0,2,X
+608,EPL,1718,180114,Liverpool,Manchester City,0,0,O
+609,EPL,1718,180115,Manchester United,Stoke,0,0,O
+610,EPL,1718,180120,Brighton,Chelsea,2,2,O
+611,EPL,1718,180120,Burnley,Manchester United,2,2,O
+612,EPL,1718,180120,Arsenal,Crystal Palace,0,0,O
+613,EPL,1718,180120,Everton,West Bromwich Albion,1,1,O
+614,EPL,1718,180120,Leicester,Watford,0,0,O
+615,EPL,1718,180120,Stoke,Huddersfield,0,1,X
+616,EPL,1718,180120,West Ham,Bournemouth,1,0,X
+617,EPL,1718,180120,Manchester City,Newcastle United,0,0,O
+618,EPL,1718,180121,Southampton,Tottenham,1,2,X
+619,EPL,1718,180122,Swansea,Liverpool,0,2,X
+620,EPL,1718,180130,Swansea,Arsenal,0,2,X
+621,EPL,1718,180130,West Ham,Crystal Palace,1,2,X
+622,EPL,1718,180130,Huddersfield,Liverpool,2,2,O
+623,EPL,1718,180131,Chelsea,Bournemouth,2,0,X
+624,EPL,1718,180131,Everton,Leicester,0,2,X
+625,EPL,1718,180131,Newcastle United,Burnley,1,1,O
+626,EPL,1718,180131,Southampton,Brighton,1,0,X
+627,EPL,1718,180131,Manchester City,West Bromwich Albion,0,0,O
+628,EPL,1718,180131,Stoke,Watford,1,0,X
+629,EPL,1718,180131,Tottenham,Manchester United,0,2,X
+630,EPL,1718,180203,Burnley,Manchester City,1,2,X
+631,EPL,1718,180203,Leicester,Swansea,1,0,X
+632,EPL,1718,180203,Bournemouth,Stoke,0,1,X
+633,EPL,1718,180203,Brighton,West Ham,0,1,X
+634,EPL,1718,180203,Manchester United,Huddersfield,0,0,O
+635,EPL,1718,180203,West Bromwich Albion,Southampton,2,1,X
+636,EPL,1718,180203,Arsenal,Everton,0,0,O
+637,EPL,1718,180204,Crystal Palace,Newcastle United,1,1,O
+638,EPL,1718,180204,Liverpool,Tottenham,1,1,O
+639,EPL,1718,180205,Watford,Chelsea,0,2,X
+640,EPL,1718,180210,Tottenham,Arsenal,0,2,X
+641,EPL,1718,180210,West Ham,Watford,0,2,X
+642,EPL,1718,180210,Stoke,Brighton,1,1,O
+643,EPL,1718,180210,Swansea,Burnley,0,2,X
+644,EPL,1718,180210,Everton,Crystal Palace,0,1,X
+645,EPL,1718,180210,Manchester City,Leicester,0,0,O
+646,EPL,1718,180211,Huddersfield,Bournemouth,0,2,X
+647,EPL,1718,180211,Newcastle United,Manchester United,0,2,X
+648,EPL,1718,180211,Southampton,Liverpool,2,2,O
+649,EPL,1718,180212,Chelsea,West Bromwich Albion,0,0,O
+650,EPL,1718,180224,Leicester,Stoke,1,0,X
+651,EPL,1718,180224,Liverpool,West Ham,0,0,O
+652,EPL,1718,180224,Burnley,Southampton,1,2,X
+653,EPL,1718,180224,Bournemouth,Newcastle United,1,0,X
+654,EPL,1718,180224,Brighton,Swansea,0,1,X
+655,EPL,1718,180224,West Bromwich Albion,Huddersfield,2,0,X
+656,EPL,1718,180224,Watford,Everton,0,2,X
+657,EPL,1718,180225,Crystal Palace,Tottenham,2,2,O
+658,EPL,1718,180225,Manchester United,Chelsea,0,2,X
+659,EPL,1718,180301,Arsenal,Manchester City,2,2,O
+660,EPL,1718,180303,Burnley,Everton,0,2,X
+661,EPL,1718,180303,Southampton,Stoke,1,0,X
+662,EPL,1718,180303,Swansea,West Ham,0,1,X
+663,EPL,1718,180303,Tottenham,Huddersfield,0,0,O
+664,EPL,1718,180303,Watford,West Bromwich Albion,0,0,O
+665,EPL,1718,180303,Leicester,Bournemouth,1,1,O
+666,EPL,1718,180303,Liverpool,Newcastle United,0,0,O
+667,EPL,1718,180304,Brighton,Arsenal,0,2,X
+668,EPL,1718,180304,Manchester City,Chelsea,0,0,O
+669,EPL,1718,180305,Crystal Palace,Manchester United,2,2,O
+670,EPL,1718,180310,Manchester United,Liverpool,0,2,X
+671,EPL,1718,180310,Newcastle United,Southampton,0,2,X
+672,EPL,1718,180310,West Bromwich Albion,Leicester,2,1,X
+673,EPL,1718,180310,West Ham,Burnley,2,1,X
+674,EPL,1718,180310,Everton,Brighton,0,1,X
+675,EPL,1718,180310,Huddersfield,Swansea,1,1,O
+676,EPL,1718,180310,Chelsea,Crystal Palace,0,0,O
+677,EPL,1718,180311,Arsenal,Watford,0,0,O
+678,EPL,1718,180311,Bournemouth,Tottenham,2,2,O
+679,EPL,1718,180312,Stoke,Manchester City,2,2,O
+680,EPL,1718,180317,Bournemouth,West Bromwich Albion,0,0,O
+681,EPL,1718,180317,Huddersfield,Crystal Palace,2,1,X
+682,EPL,1718,180317,Stoke,Everton,2,1,X
+683,EPL,1718,180317,Liverpool,Watford,0,0,O
+684,EPL,1718,180331,Crystal Palace,Liverpool,2,2,O
+685,EPL,1718,180331,Brighton,Leicester,2,2,O
+686,EPL,1718,180331,Manchester United,Swansea,0,0,O
+687,EPL,1718,180331,Newcastle United,Huddersfield,0,0,O
+688,EPL,1718,180331,Watford,Bournemouth,1,1,O
+689,EPL,1718,180331,West Bromwich Albion,Burnley,2,2,O
+690,EPL,1718,180331,West Ham,Southampton,0,2,X
+691,EPL,1718,180331,Everton,Manchester City,2,2,O
+692,EPL,1718,180401,Arsenal,Stoke,0,0,O
+693,EPL,1718,180401,Chelsea,Tottenham,2,1,X
+694,EPL,1718,180407,Everton,Liverpool,1,2,X
+695,EPL,1718,180407,Leicester,Newcastle United,2,1,X
+696,EPL,1718,180407,Bournemouth,Crystal Palace,1,2,X
+697,EPL,1718,180407,Brighton,Huddersfield,1,0,X
+698,EPL,1718,180407,Stoke,Tottenham,2,2,O
+699,EPL,1718,180407,Watford,Burnley,2,1,X
+700,EPL,1718,180407,West Bromwich Albion,Swansea,1,2,X
+701,EPL,1718,180407,Manchester City,Manchester United,2,0,X
+702,EPL,1718,180408,Arsenal,Southampton,0,0,O
+703,EPL,1718,180408,Chelsea,West Ham,1,0,X
+704,EPL,1718,180414,Southampton,Chelsea,2,2,O
+705,EPL,1718,180414,Swansea,Everton,1,1,O
+706,EPL,1718,180414,Burnley,Leicester,0,2,X
+707,EPL,1718,180414,Crystal Palace,Brighton,0,0,O
+708,EPL,1718,180414,Huddersfield,Watford,0,2,X
+709,EPL,1718,180414,Liverpool,Bournemouth,0,0,O
+710,EPL,1718,180414,Tottenham,Manchester City,2,2,O
+711,EPL,1718,180415,Newcastle United,Arsenal,0,2,X
+712,EPL,1718,180415,Manchester United,West Bromwich Albion,2,0,X
+713,EPL,1718,180416,West Ham,Stoke,1,0,X
+714,EPL,1718,180417,Brighton,Tottenham,1,2,X
+715,EPL,1718,180418,Bournemouth,Manchester United,2,2,O
+716,EPL,1718,180419,Leicester,Southampton,1,1,O
+717,EPL,1718,180419,Burnley,Chelsea,2,2,O
+718,EPL,1718,180421,West Bromwich Albion,Liverpool,1,2,X
+719,EPL,1718,180421,Watford,Crystal Palace,1,1,O
+720,EPL,1718,180422,Stoke,Burnley,1,1,O
+721,EPL,1718,180422,Arsenal,West Ham,0,0,O
+722,EPL,1718,180422,Manchester City,Swansea,0,0,O
+723,EPL,1718,180423,Everton,Newcastle United,0,2,X
+724,EPL,1718,180428,Liverpool,Stoke,1,0,X
+725,EPL,1718,180428,Burnley,Brighton,1,1,O
+726,EPL,1718,180428,Crystal Palace,Leicester,0,1,X
+727,EPL,1718,180428,Huddersfield,Everton,2,2,O
+728,EPL,1718,180428,Newcastle United,West Bromwich Albion,2,1,X
+729,EPL,1718,180428,Southampton,Bournemouth,0,0,O
+730,EPL,1718,180428,Swansea,Chelsea,2,2,O
+731,EPL,1718,180429,West Ham,Manchester City,2,2,O
+732,EPL,1718,180429,Manchester United,Arsenal,0,0,O
+733,EPL,1718,180430,Tottenham,Watford,0,0,O
+734,EPL,1718,180504,Brighton,Manchester United,0,2,X
+735,EPL,1718,180505,Stoke,Crystal Palace,2,2,O
+736,EPL,1718,180505,Watford,Newcastle United,0,0,O
+737,EPL,1718,180505,West Bromwich Albion,Tottenham,0,2,X
+738,EPL,1718,180505,Leicester,West Ham,2,0,X
+739,EPL,1718,180505,Bournemouth,Swansea,0,1,X
+740,EPL,1718,180505,Everton,Southampton,1,2,X
+741,EPL,1718,180506,Manchester City,Huddersfield,1,0,X
+742,EPL,1718,180506,Arsenal,Burnley,0,0,O
+743,EPL,1718,180506,Chelsea,Liverpool,0,1,X
+744,EPL,1718,180508,Swansea,Southampton,2,2,O
+745,EPL,1718,180509,Leicester,Arsenal,0,2,X
+746,EPL,1718,180509,Chelsea,Huddersfield,1,0,X
+747,EPL,1718,180509,Tottenham,Newcastle United,0,0,O
+748,EPL,1718,180509,Manchester City,Brighton,0,0,O
+749,EPL,1718,180510,West Ham,Manchester United,1,2,X
+750,EPL,1718,180513,Newcastle United,Chelsea,0,2,X
+751,EPL,1718,180513,West Ham,Everton,0,2,X
+752,EPL,1718,180513,Southampton,Manchester City,2,2,O
+753,EPL,1718,180513,Tottenham,Leicester,0,0,O
+754,EPL,1718,180513,Swansea,Stoke,2,0,X
+755,EPL,1718,180513,Burnley,Bournemouth,2,2,O
+756,EPL,1718,180513,Crystal Palace,West Bromwich Albion,0,0,O
+757,EPL,1718,180513,Huddersfield,Arsenal,2,2,O
+758,EPL,1718,180513,Liverpool,Brighton,0,0,O
+759,EPL,1718,180513,Manchester United,Watford,0,0,O
+760,SERIE,1718,170819,Juventus,Cagliari,0,0,O
+761,SERIE,1718,170819,Verona,Napoli,2,2,O
+762,SERIE,1718,170820,Atalanta,Roma,2,2,O
+763,SERIE,1718,170820,Bologna,Torino,1,2,X
+764,SERIE,1718,170820,Crotone,AC Milan,2,2,O
+765,SERIE,1718,170820,Inter,Fiorentina,0,0,O
+766,SERIE,1718,170820,Lazio,SPAL 2013,1,0,X
+767,SERIE,1718,170820,Sampdoria,Benevento,0,0,O
+768,SERIE,1718,170820,Sassuolo,Genoa,1,2,X
+769,SERIE,1718,170820,Udinese,Chievo,2,1,X
+770,SERIE,1718,170826,Benevento,Bologna,2,2,O
+771,SERIE,1718,170826,Genoa,Juventus,2,2,O
+772,SERIE,1718,170826,Roma,Inter,2,1,X
+773,SERIE,1718,170827,Torino,Sassuolo,0,1,X
+774,SERIE,1718,170827,SPAL 2013,Udinese,0,2,X
+775,SERIE,1718,170827,AC Milan,Cagliari,0,0,O
+776,SERIE,1718,170827,Napoli,Atalanta,0,0,O
+777,SERIE,1718,170827,Chievo,Lazio,2,2,O
+778,SERIE,1718,170827,Crotone,Verona,1,2,X
+779,SERIE,1718,170827,Fiorentina,Sampdoria,2,1,X
+780,SERIE,1718,170909,Juventus,Chievo,0,0,O
+781,SERIE,1718,170910,Inter,SPAL 2013,0,0,O
+782,SERIE,1718,170910,Udinese,Genoa,0,1,X
+783,SERIE,1718,170910,Atalanta,Sassuolo,0,0,O
+784,SERIE,1718,170910,Cagliari,Crotone,0,0,O
+785,SERIE,1718,170910,Verona,Fiorentina,2,2,O
+786,SERIE,1718,170910,Lazio,AC Milan,0,1,X
+787,SERIE,1718,170910,Benevento,Torino,2,2,O
+788,SERIE,1718,170910,Bologna,Napoli,2,2,O
+789,SERIE,1718,170916,Crotone,Inter,2,2,O
+790,SERIE,1718,170916,Fiorentina,Bologna,0,0,O
+791,SERIE,1718,170916,Roma,Verona,0,0,O
+792,SERIE,1718,170917,Sassuolo,Juventus,2,2,O
+793,SERIE,1718,170917,SPAL 2013,Cagliari,2,2,O
+794,SERIE,1718,170917,Torino,Sampdoria,1,0,X
+795,SERIE,1718,170917,AC Milan,Udinese,0,0,O
+796,SERIE,1718,170917,Napoli,Benevento,0,0,O
+797,SERIE,1718,170917,Chievo,Atalanta,1,2,X
+798,SERIE,1718,170917,Genoa,Lazio,2,2,O
+799,SERIE,1718,170919,Bologna,Inter,1,2,X
+800,SERIE,1718,170920,Benevento,Roma,2,2,O
+801,SERIE,1718,170920,Cagliari,Sassuolo,2,1,X
+802,SERIE,1718,170920,Genoa,Chievo,1,1,O
+803,SERIE,1718,170920,Verona,Sampdoria,1,2,X
+804,SERIE,1718,170920,Juventus,Fiorentina,0,0,O
+805,SERIE,1718,170920,Lazio,Napoli,2,2,O
+806,SERIE,1718,170920,AC Milan,SPAL 2013,0,0,O
+807,SERIE,1718,170920,Udinese,Torino,2,2,O
+808,SERIE,1718,170920,Atalanta,Crotone,0,0,O
+809,SERIE,1718,170923,Roma,Udinese,0,0,O
+810,SERIE,1718,170923,SPAL 2013,Napoli,2,2,O
+811,SERIE,1718,170923,Juventus,Torino,0,0,O
+812,SERIE,1718,170924,Sampdoria,AC Milan,0,2,X
+813,SERIE,1718,170924,Verona,Lazio,2,2,O
+814,SERIE,1718,170924,Inter,Genoa,0,0,O
+815,SERIE,1718,170924,Cagliari,Chievo,2,1,X
+816,SERIE,1718,170924,Crotone,Benevento,0,0,O
+817,SERIE,1718,170924,Sassuolo,Bologna,2,1,X
+818,SERIE,1718,170924,Fiorentina,Atalanta,1,2,X
+819,SERIE,1718,170930,Udinese,Sampdoria,0,2,X
+820,SERIE,1718,170930,Genoa,Bologna,2,1,X
+821,SERIE,1718,171001,Napoli,Cagliari,0,0,O
+822,SERIE,1718,171001,SPAL 2013,Crotone,1,0,X
+823,SERIE,1718,171001,Torino,Verona,1,0,X
+824,SERIE,1718,171001,Lazio,Sassuolo,0,0,O
+825,SERIE,1718,171001,Benevento,Inter,2,2,O
+826,SERIE,1718,171001,Chievo,Fiorentina,0,2,X
+827,SERIE,1718,171001,AC Milan,Roma,2,1,X
+828,SERIE,1718,171001,Atalanta,Juventus,1,2,X
+829,SERIE,1718,171014,Juventus,Lazio,2,0,X
+830,SERIE,1718,171014,Roma,Napoli,2,2,O
+831,SERIE,1718,171015,Fiorentina,Udinese,0,1,X
+832,SERIE,1718,171015,Sampdoria,Atalanta,0,2,X
+833,SERIE,1718,171015,Sassuolo,Chievo,1,1,O
+834,SERIE,1718,171015,Bologna,SPAL 2013,0,0,O
+835,SERIE,1718,171015,Cagliari,Genoa,2,1,X
+836,SERIE,1718,171015,Crotone,Torino,1,2,X
+837,SERIE,1718,171015,Inter,AC Milan,0,1,X
+838,SERIE,1718,171016,Verona,Benevento,0,0,O
+839,SERIE,1718,171021,Sampdoria,Crotone,0,0,O
+840,SERIE,1718,171021,Napoli,Inter,1,0,X
+841,SERIE,1718,171022,Chievo,Verona,0,1,X
+842,SERIE,1718,171022,SPAL 2013,Sassuolo,2,2,O
+843,SERIE,1718,171022,Torino,Roma,2,2,O
+844,SERIE,1718,171022,Atalanta,Bologna,0,0,O
+845,SERIE,1718,171022,Benevento,Fiorentina,2,2,O
+846,SERIE,1718,171022,AC Milan,Genoa,1,0,X
+847,SERIE,1718,171022,Udinese,Juventus,2,2,O
+848,SERIE,1718,171022,Lazio,Cagliari,0,0,O
+849,SERIE,1718,171024,Inter,Sampdoria,0,0,O
+850,SERIE,1718,171025,Atalanta,Verona,0,0,O
+851,SERIE,1718,171025,Bologna,Lazio,2,2,O
+852,SERIE,1718,171025,Cagliari,Benevento,0,0,O
+853,SERIE,1718,171025,Chievo,AC Milan,2,2,O
+854,SERIE,1718,171025,Fiorentina,Torino,0,1,X
+855,SERIE,1718,171025,Genoa,Napoli,2,2,O
+856,SERIE,1718,171025,Juventus,SPAL 2013,0,0,O
+857,SERIE,1718,171025,Roma,Crotone,0,0,O
+858,SERIE,1718,171025,Sassuolo,Udinese,2,1,X
+859,SERIE,1718,171028,AC Milan,Juventus,2,2,O
+860,SERIE,1718,171028,Roma,Bologna,0,0,O
+861,SERIE,1718,171029,Benevento,Lazio,2,2,O
+862,SERIE,1718,171029,Crotone,Fiorentina,0,2,X
+863,SERIE,1718,171029,Sampdoria,Chievo,0,1,X
+864,SERIE,1718,171029,SPAL 2013,Genoa,0,2,X
+865,SERIE,1718,171029,Napoli,Sassuolo,0,0,O
+866,SERIE,1718,171029,Udinese,Atalanta,0,2,X
+867,SERIE,1718,171029,Torino,Cagliari,0,0,O
+868,SERIE,1718,171030,Verona,Inter,2,2,O
+869,SERIE,1718,171104,Bologna,Crotone,2,0,X
+870,SERIE,1718,171104,Genoa,Sampdoria,2,2,O
+871,SERIE,1718,171105,Inter,Torino,1,0,X
+872,SERIE,1718,171105,Juventus,Benevento,0,0,O
+873,SERIE,1718,171105,Cagliari,Verona,0,1,X
+874,SERIE,1718,171105,Chievo,Napoli,1,2,X
+875,SERIE,1718,171105,Fiorentina,Roma,2,2,O
+876,SERIE,1718,171105,Atalanta,SPAL 2013,1,0,X
+877,SERIE,1718,171105,Sassuolo,AC Milan,2,2,O
+878,SERIE,1718,171118,Roma,Lazio,0,1,X
+879,SERIE,1718,171118,Napoli,AC Milan,0,0,O
+880,SERIE,1718,171119,Crotone,Genoa,2,2,O
+881,SERIE,1718,171119,Sampdoria,Juventus,0,2,X
+882,SERIE,1718,171119,SPAL 2013,Fiorentina,1,2,X
+883,SERIE,1718,171119,Torino,Chievo,1,1,O
+884,SERIE,1718,171119,Udinese,Cagliari,2,2,O
+885,SERIE,1718,171119,Benevento,Sassuolo,2,2,O
+886,SERIE,1718,171119,Inter,Atalanta,0,1,X
+887,SERIE,1718,171120,Verona,Bologna,2,2,O
+888,SERIE,1718,171125,Bologna,Sampdoria,0,1,X
+889,SERIE,1718,171125,Chievo,SPAL 2013,0,0,O
+890,SERIE,1718,171125,Sassuolo,Verona,2,0,X
+891,SERIE,1718,171125,Cagliari,Inter,2,2,O
+892,SERIE,1718,171126,Genoa,Roma,1,2,X
+893,SERIE,1718,171126,Udinese,Napoli,2,2,O
+894,SERIE,1718,171126,AC Milan,Torino,1,0,X
+895,SERIE,1718,171126,Lazio,Fiorentina,1,0,X
+896,SERIE,1718,171126,Juventus,Crotone,0,0,O
+897,SERIE,1718,171127,Atalanta,Benevento,0,0,O
+898,SERIE,1718,171201,Roma,SPAL 2013,0,0,O
+899,SERIE,1718,171201,Napoli,Juventus,2,1,X
+900,SERIE,1718,171202,Torino,Atalanta,1,2,X
+901,SERIE,1718,171203,Benevento,AC Milan,1,2,X
+902,SERIE,1718,171203,Bologna,Cagliari,1,1,O
+903,SERIE,1718,171203,Fiorentina,Sassuolo,0,0,O
+904,SERIE,1718,171203,Inter,Chievo,0,0,O
+905,SERIE,1718,171203,Sampdoria,Lazio,2,2,O
+906,SERIE,1718,171204,Crotone,Udinese,2,2,O
+907,SERIE,1718,171204,Verona,Genoa,2,2,O
+908,SERIE,1718,171209,Cagliari,Sampdoria,1,1,O
+909,SERIE,1718,171209,Juventus,Inter,1,1,O
+910,SERIE,1718,171210,Chievo,Roma,1,2,X
+911,SERIE,1718,171210,Napoli,Fiorentina,1,0,X
+912,SERIE,1718,171210,SPAL 2013,Verona,1,1,O
+913,SERIE,1718,171210,Udinese,Benevento,0,0,O
+914,SERIE,1718,171210,Sassuolo,Crotone,0,0,O
+915,SERIE,1718,171210,AC Milan,Bologna,0,0,O
+916,SERIE,1718,171211,Lazio,Torino,2,0,X
+917,SERIE,1718,171212,Genoa,Atalanta,2,2,O
+918,SERIE,1718,171216,Inter,Udinese,2,0,X
+919,SERIE,1718,171216,Torino,Napoli,2,2,O
+920,SERIE,1718,171216,Roma,Cagliari,0,0,O
+921,SERIE,1718,171217,Verona,AC Milan,0,2,X
+922,SERIE,1718,171217,Sampdoria,Sassuolo,2,0,X
+923,SERIE,1718,171217,Bologna,Juventus,2,2,O
+924,SERIE,1718,171217,Crotone,Chievo,0,2,X
+925,SERIE,1718,171217,Fiorentina,Genoa,1,1,O
+926,SERIE,1718,171217,Benevento,SPAL 2013,2,2,O
+927,SERIE,1718,171217,Atalanta,Lazio,1,1,O
+928,SERIE,1718,171222,Chievo,Bologna,2,1,X
+929,SERIE,1718,171222,Cagliari,Fiorentina,2,2,O
+930,SERIE,1718,171223,Lazio,Crotone,0,0,O
+931,SERIE,1718,171223,Genoa,Benevento,0,0,O
+932,SERIE,1718,171223,Napoli,Sampdoria,0,0,O
+933,SERIE,1718,171223,Sassuolo,Inter,0,2,X
+934,SERIE,1718,171223,SPAL 2013,Torino,1,2,X
+935,SERIE,1718,171223,Udinese,Verona,0,0,O
+936,SERIE,1718,171223,AC Milan,Atalanta,2,1,X
+937,SERIE,1718,171223,Juventus,Roma,0,0,O
+938,SERIE,1718,171229,Crotone,Napoli,2,2,O
+939,SERIE,1718,171230,Fiorentina,AC Milan,1,2,X
+940,SERIE,1718,171230,Roma,Sassuolo,1,0,X
+941,SERIE,1718,171230,Sampdoria,SPAL 2013,0,0,O
+942,SERIE,1718,171230,Torino,Genoa,1,1,O
+943,SERIE,1718,171230,Atalanta,Cagliari,2,0,X
+944,SERIE,1718,171230,Benevento,Chievo,0,2,X
+945,SERIE,1718,171230,Bologna,Udinese,2,1,X
+946,SERIE,1718,171230,Inter,Lazio,1,0,X
+947,SERIE,1718,171230,Verona,Juventus,2,2,O
+948,SERIE,1718,180105,Chievo,Udinese,1,1,O
+949,SERIE,1718,180105,Fiorentina,Inter,1,0,X
+950,SERIE,1718,180106,Torino,Bologna,0,1,X
+951,SERIE,1718,180106,AC Milan,Crotone,0,0,O
+952,SERIE,1718,180106,Napoli,Verona,0,0,O
+953,SERIE,1718,180106,SPAL 2013,Lazio,2,2,O
+954,SERIE,1718,180106,Benevento,Sampdoria,0,2,X
+955,SERIE,1718,180106,Genoa,Sassuolo,0,1,X
+956,SERIE,1718,180106,Roma,Atalanta,2,1,X
+957,SERIE,1718,180106,Cagliari,Juventus,2,2,O
+958,SERIE,1718,180121,Atalanta,Napoli,2,2,O
+959,SERIE,1718,180121,Bologna,Benevento,0,0,O
+960,SERIE,1718,180121,Lazio,Chievo,0,0,O
+961,SERIE,1718,180121,Verona,Crotone,2,1,X
+962,SERIE,1718,180121,Sampdoria,Fiorentina,0,2,X
+963,SERIE,1718,180121,Udinese,SPAL 2013,1,0,X
+964,SERIE,1718,180121,Sassuolo,Torino,1,1,O
+965,SERIE,1718,180121,Cagliari,AC Milan,2,2,O
+966,SERIE,1718,180121,Inter,Roma,1,1,O
+967,SERIE,1718,180122,Juventus,Genoa,0,0,O
+968,SERIE,1718,180124,Lazio,Udinese,0,0,O
+969,SERIE,1718,180124,Sampdoria,Roma,1,2,X
+970,SERIE,1718,180127,Sassuolo,Atalanta,2,2,O
+971,SERIE,1718,180127,Chievo,Juventus,2,2,O
+972,SERIE,1718,180128,SPAL 2013,Inter,1,2,X
+973,SERIE,1718,180128,Genoa,Udinese,2,1,X
+974,SERIE,1718,180128,Torino,Benevento,0,0,O
+975,SERIE,1718,180128,Napoli,Bologna,0,0,O
+976,SERIE,1718,180128,Crotone,Cagliari,1,1,O
+977,SERIE,1718,180128,Fiorentina,Verona,2,0,X
+978,SERIE,1718,180128,AC Milan,Lazio,0,1,X
+979,SERIE,1718,180128,Roma,Sampdoria,2,0,X
+980,SERIE,1718,180203,Sampdoria,Torino,1,1,O
+981,SERIE,1718,180203,Inter,Crotone,1,0,X
+982,SERIE,1718,180204,Verona,Roma,2,2,O
+983,SERIE,1718,180204,Juventus,Sassuolo,0,0,O
+984,SERIE,1718,180204,Cagliari,SPAL 2013,0,2,X
+985,SERIE,1718,180204,Bologna,Fiorentina,2,2,O
+986,SERIE,1718,180204,Udinese,AC Milan,1,2,X
+987,SERIE,1718,180204,Atalanta,Chievo,0,0,O
+988,SERIE,1718,180204,Benevento,Napoli,2,2,O
+989,SERIE,1718,180205,Lazio,Genoa,2,0,X
+990,SERIE,1718,180209,Fiorentina,Juventus,2,2,O
+991,SERIE,1718,180210,SPAL 2013,AC Milan,2,2,O
+992,SERIE,1718,180210,Crotone,Atalanta,1,2,X
+993,SERIE,1718,180210,Napoli,Lazio,0,0,O
+994,SERIE,1718,180211,Sassuolo,Cagliari,1,1,O
+995,SERIE,1718,180211,Chievo,Genoa,2,2,O
+996,SERIE,1718,180211,Sampdoria,Verona,0,0,O
+997,SERIE,1718,180211,Inter,Bologna,0,0,O
+998,SERIE,1718,180211,Torino,Udinese,0,1,X
+999,SERIE,1718,180211,Roma,Benevento,0,0,O
+1000,SERIE,1718,180217,Udinese,Roma,2,2,O
+1001,SERIE,1718,180217,Chievo,Cagliari,0,2,X
+1002,SERIE,1718,180217,Genoa,Inter,0,2,X
+1003,SERIE,1718,180218,Torino,Juventus,2,2,O
+1004,SERIE,1718,180218,Benevento,Crotone,0,1,X
+1005,SERIE,1718,180218,Bologna,Sassuolo,0,1,X
+1006,SERIE,1718,180218,Napoli,SPAL 2013,0,0,O
+1007,SERIE,1718,180218,Atalanta,Fiorentina,1,2,X
+1008,SERIE,1718,180218,AC Milan,Sampdoria,0,0,O
+1009,SERIE,1718,180219,Lazio,Verona,0,0,O
+1010,SERIE,1718,180224,Bologna,Genoa,0,1,X
+1011,SERIE,1718,180224,Inter,Benevento,0,0,O
+1012,SERIE,1718,180225,Crotone,SPAL 2013,2,1,X
+1013,SERIE,1718,180225,Sampdoria,Udinese,0,1,X
+1014,SERIE,1718,180225,Verona,Torino,0,2,X
+1015,SERIE,1718,180225,Sassuolo,Lazio,2,2,O
+1016,SERIE,1718,180225,Fiorentina,Chievo,0,0,O
+1017,SERIE,1718,180225,Roma,AC Milan,2,0,X
+1018,SERIE,1718,180226,Cagliari,Napoli,2,2,O
+1019,SERIE,1718,180303,SPAL 2013,Bologna,0,2,X
+1020,SERIE,1718,180303,Lazio,Juventus,2,2,O
+1021,SERIE,1718,180303,Napoli,Roma,2,0,X
+1022,SERIE,1718,180309,Roma,Torino,0,0,O
+1023,SERIE,1718,180310,Verona,Chievo,0,2,X
+1024,SERIE,1718,180311,Fiorentina,Benevento,0,0,O
+1025,SERIE,1718,180311,Crotone,Sampdoria,0,2,X
+1026,SERIE,1718,180311,Sassuolo,SPAL 2013,1,0,X
+1027,SERIE,1718,180311,Juventus,Udinese,0,0,O
+1028,SERIE,1718,180311,Cagliari,Lazio,1,2,X
+1029,SERIE,1718,180311,Bologna,Atalanta,2,2,O
+1030,SERIE,1718,180311,Genoa,AC Milan,2,2,O
+1031,SERIE,1718,180311,Inter,Napoli,1,2,X
+1032,SERIE,1718,180314,Juventus,Atalanta,0,0,O
+1033,SERIE,1718,180317,Udinese,Sassuolo,2,1,X
+1034,SERIE,1718,180317,SPAL 2013,Juventus,1,2,X
+1035,SERIE,1718,180318,Sampdoria,Inter,2,2,O
+1036,SERIE,1718,180318,Crotone,Roma,2,2,O
+1037,SERIE,1718,180318,Benevento,Cagliari,2,2,O
+1038,SERIE,1718,180318,AC Milan,Chievo,0,0,O
+1039,SERIE,1718,180318,Torino,Fiorentina,2,1,X
+1040,SERIE,1718,180318,Verona,Atalanta,2,2,O
+1041,SERIE,1718,180318,Lazio,Bologna,1,0,X
+1042,SERIE,1718,180318,Napoli,Genoa,0,0,O
+1043,SERIE,1718,180331,Bologna,Roma,1,2,X
+1044,SERIE,1718,180331,Genoa,SPAL 2013,1,0,X
+1045,SERIE,1718,180331,Cagliari,Torino,2,2,O
+1046,SERIE,1718,180331,Atalanta,Udinese,0,0,O
+1047,SERIE,1718,180331,Lazio,Benevento,0,0,O
+1048,SERIE,1718,180331,Fiorentina,Crotone,0,0,O
+1049,SERIE,1718,180331,Inter,Verona,0,0,O
+1050,SERIE,1718,180331,Chievo,Sampdoria,0,2,X
+1051,SERIE,1718,180331,Sassuolo,Napoli,1,2,X
+1052,SERIE,1718,180331,Juventus,AC Milan,0,0,O
+1053,SERIE,1718,180403,Genoa,Cagliari,0,0,O
+1054,SERIE,1718,180403,Udinese,Fiorentina,2,2,O
+1055,SERIE,1718,180403,Atalanta,Sampdoria,2,0,X
+1056,SERIE,1718,180404,Benevento,Verona,0,0,O
+1057,SERIE,1718,180404,AC Milan,Inter,1,2,X
+1058,SERIE,1718,180404,Torino,Crotone,0,0,O
+1059,SERIE,1718,180404,Chievo,Sassuolo,1,2,X
+1060,SERIE,1718,180407,Benevento,Juventus,2,2,O
+1061,SERIE,1718,180407,Roma,Fiorentina,2,0,X
+1062,SERIE,1718,180407,SPAL 2013,Atalanta,1,2,X
+1063,SERIE,1718,180407,Sampdoria,Genoa,1,2,X
+1064,SERIE,1718,180408,Torino,Inter,0,2,X
+1065,SERIE,1718,180408,Crotone,Bologna,0,2,X
+1066,SERIE,1718,180408,Verona,Cagliari,0,2,X
+1067,SERIE,1718,180408,Napoli,Chievo,0,0,O
+1068,SERIE,1718,180408,Udinese,Lazio,2,2,O
+1069,SERIE,1718,180408,AC Milan,Sassuolo,1,0,X
+1070,SERIE,1718,180414,Cagliari,Udinese,0,2,X
+1071,SERIE,1718,180414,Genoa,Crotone,0,0,O
+1072,SERIE,1718,180414,Chievo,Torino,1,2,X
+1073,SERIE,1718,180414,Atalanta,Inter,1,2,X
+1074,SERIE,1718,180415,Fiorentina,SPAL 2013,1,0,X
+1075,SERIE,1718,180415,AC Milan,Napoli,1,2,X
+1076,SERIE,1718,180415,Bologna,Verona,0,0,O
+1077,SERIE,1718,180415,Sassuolo,Benevento,1,0,X
+1078,SERIE,1718,180415,Juventus,Sampdoria,0,0,O
+1079,SERIE,1718,180415,Lazio,Roma,1,2,X
+1080,SERIE,1718,180417,Inter,Cagliari,0,0,O
+1081,SERIE,1718,180418,Benevento,Atalanta,2,2,O
+1082,SERIE,1718,180418,Sampdoria,Bologna,0,1,X
+1083,SERIE,1718,180418,Crotone,Juventus,1,2,X
+1084,SERIE,1718,180418,Fiorentina,Lazio,2,2,O
+1085,SERIE,1718,180418,Torino,AC Milan,1,2,X
+1086,SERIE,1718,180418,Verona,Sassuolo,2,2,O
+1087,SERIE,1718,180418,Napoli,Udinese,0,0,O
+1088,SERIE,1718,180418,SPAL 2013,Chievo,1,1,O
+1089,SERIE,1718,180418,Roma,Genoa,0,0,O
+1090,SERIE,1718,180421,SPAL 2013,Roma,2,2,O
+1091,SERIE,1718,180421,Sassuolo,Fiorentina,0,2,X
+1092,SERIE,1718,180421,AC Milan,Benevento,2,0,X
+1093,SERIE,1718,180422,Cagliari,Bologna,1,1,O
+1094,SERIE,1718,180422,Udinese,Crotone,2,0,X
+1095,SERIE,1718,180422,Chievo,Inter,2,2,O
+1096,SERIE,1718,180422,Lazio,Sampdoria,0,0,O
+1097,SERIE,1718,180422,Atalanta,Torino,0,0,O
+1098,SERIE,1718,180422,Juventus,Napoli,2,1,X
+1099,SERIE,1718,180423,Genoa,Verona,0,0,O
+1100,SERIE,1718,180428,Roma,Chievo,0,0,O
+1101,SERIE,1718,180428,Inter,Juventus,2,2,O
+1102,SERIE,1718,180429,Crotone,Sassuolo,0,1,X
+1103,SERIE,1718,180429,Bologna,AC Milan,2,2,O
+1104,SERIE,1718,180429,Benevento,Udinese,1,2,X
+1105,SERIE,1718,180429,Verona,SPAL 2013,2,2,O
+1106,SERIE,1718,180429,Atalanta,Genoa,0,0,O
+1107,SERIE,1718,180429,Sampdoria,Cagliari,0,1,X
+1108,SERIE,1718,180429,Fiorentina,Napoli,0,2,X
+1109,SERIE,1718,180429,Torino,Lazio,2,2,O
+1110,SERIE,1718,180505,AC Milan,Verona,0,0,O
+1111,SERIE,1718,180505,Juventus,Bologna,0,0,O
+1112,SERIE,1718,180506,Udinese,Inter,2,2,O
+1113,SERIE,1718,180506,Napoli,Torino,1,0,X
+1114,SERIE,1718,180506,Chievo,Crotone,0,2,X
+1115,SERIE,1718,180506,Genoa,Fiorentina,2,2,O
+1116,SERIE,1718,180506,Lazio,Atalanta,1,1,O
+1117,SERIE,1718,180506,SPAL 2013,Benevento,0,0,O
+1118,SERIE,1718,180506,Sassuolo,Sampdoria,0,2,X
+1119,SERIE,1718,180506,Cagliari,Roma,2,2,O
+1120,SERIE,1718,180512,Benevento,Genoa,0,2,X
+1121,SERIE,1718,180512,Inter,Sassuolo,2,0,X
+1122,SERIE,1718,180513,Torino,SPAL 2013,0,1,X
+1123,SERIE,1718,180513,Verona,Udinese,2,2,O
+1124,SERIE,1718,180513,Crotone,Lazio,1,2,X
+1125,SERIE,1718,180513,Fiorentina,Cagliari,2,0,X
+1126,SERIE,1718,180513,Bologna,Chievo,2,2,O
+1127,SERIE,1718,180513,Atalanta,AC Milan,1,1,O
+1128,SERIE,1718,180513,Sampdoria,Napoli,2,2,O
+1129,SERIE,1718,180513,Roma,Juventus,1,1,O
+1130,SERIE,1718,180519,Juventus,Verona,0,0,O
+1131,SERIE,1718,180520,Genoa,Torino,2,1,X
+1132,SERIE,1718,180520,SPAL 2013,Sampdoria,0,0,O
+1133,SERIE,1718,180520,Cagliari,Atalanta,0,2,X
+1134,SERIE,1718,180520,Chievo,Benevento,0,0,O
+1135,SERIE,1718,180520,Udinese,Bologna,0,0,O
+1136,SERIE,1718,180520,Napoli,Crotone,0,0,O
+1137,SERIE,1718,180520,AC Milan,Fiorentina,0,0,O
+1138,SERIE,1718,180520,Lazio,Inter,2,2,O
+1139,SERIE,1718,180520,Sassuolo,Roma,2,2,O

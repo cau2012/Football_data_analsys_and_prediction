@@ -1,0 +1,129 @@
+,League,Season,Match_Date,Home_Name,Away_Name,Result,Predict,Match?
+0,EPL,1819,180810,Manchester United,Leicester,0,0,O
+1,EPL,1819,180811,Newcastle United,Tottenham,2,2,O
+2,EPL,1819,180811,Watford,Brighton,0,2,X
+3,EPL,1819,180811,Bournemouth,Cardiff,0,0,O
+4,EPL,1819,180811,Fulham,Crystal Palace,2,0,X
+5,EPL,1819,180811,Huddersfield,Chelsea,2,2,O
+6,EPL,1819,180811,Wolverhampton Wanderers,Everton,1,0,X
+7,EPL,1819,180812,Southampton,Burnley,1,1,O
+8,EPL,1819,180812,Liverpool,West Ham,0,0,O
+9,EPL,1819,180812,Arsenal,Manchester City,2,2,O
+10,EPL,1819,180818,Cardiff,Newcastle United,1,2,X
+11,EPL,1819,180818,Everton,Southampton,0,0,O
+12,EPL,1819,180818,Leicester,Wolverhampton Wanderers,0,1,X
+13,EPL,1819,180818,Tottenham,Fulham,0,0,O
+14,EPL,1819,180818,West Ham,Bournemouth,2,1,X
+15,EPL,1819,180818,Chelsea,Arsenal,0,0,O
+16,EPL,1819,180819,Manchester City,Huddersfield,0,0,O
+17,EPL,1819,180819,Burnley,Watford,2,1,X
+18,EPL,1819,180819,Brighton,Manchester United,0,2,X
+19,EPL,1819,180820,Crystal Palace,Liverpool,2,2,O
+20,SERIE,1819,180818,Chievo,Juventus,2,2,O
+21,SERIE,1819,180818,Lazio,Napoli,2,1,X
+22,SERIE,1819,180819,Torino,Roma,2,2,O
+23,SERIE,1819,180819,Sassuolo,Inter,0,1,X
+24,SERIE,1819,180819,Parma,Udinese,1,0,X
+25,SERIE,1819,180819,Empoli,Cagliari,0,0,O
+26,SERIE,1819,180819,Bologna,SPAL 2013,2,2,O
+27,SERIE,1819,180820,Atalanta,Frosinone,0,0,O
+28,LALIGA,1819,180817,Girona,Valladolid,1,0,X
+29,LALIGA,1819,180817,Real Betis,Levante,2,0,X
+30,LALIGA,1819,180818,Celta Vigo,Espanyol,1,0,X
+31,LALIGA,1819,180818,Villarreal,Real Sociedad,2,0,X
+32,LALIGA,1819,180818,Barcelona,Alaves,0,0,O
+33,LALIGA,1819,180819,Eibar,SD Huesca,2,0,X
+34,LALIGA,1819,180819,Rayo Vallecano,Sevilla,2,1,X
+35,LALIGA,1819,180819,Real Madrid,Getafe,0,0,O
+36,LALIGA,1819,180820,Valencia,Atletico Madrid,1,1,O
+37,LALIGA,1819,180820,Athletic Bilbao,Leganes,0,0,O
+38,EPL,1819,180825,Wolverhampton Wanderers,Manchester City,1,2,X
+39,EPL,1819,180825,Southampton,Leicester,2,2,O
+40,EPL,1819,180825,Huddersfield,Cardiff,1,1,O
+41,EPL,1819,180825,Bournemouth,Everton,1,1,O
+42,EPL,1819,180825,Arsenal,West Ham,0,0,O
+43,EPL,1819,180825,Liverpool,Brighton,0,0,O
+44,EPL,1819,180826,Watford,Crystal Palace,0,1,X
+45,EPL,1819,180826,Newcastle United,Chelsea,2,2,O
+46,EPL,1819,180826,Fulham,Burnley,0,1,X
+47,EPL,1819,180827,Manchester United,Tottenham,2,2,O
+48,SERIE,1819,180825,Juventus,Lazio,0,0,O
+49,SERIE,1819,180825,Napoli,AC Milan,0,0,O
+50,SERIE,1819,180826,SPAL 2013,Parma,0,0,O
+51,SERIE,1819,180826,Udinese,Sampdoria,0,1,X
+52,SERIE,1819,180826,Inter,Torino,1,0,X
+53,SERIE,1819,180826,Genoa,Empoli,0,0,O
+54,SERIE,1819,180826,Frosinone,Bologna,1,1,O
+55,SERIE,1819,180826,Fiorentina,Chievo,0,0,O
+56,SERIE,1819,180826,Cagliari,Sassuolo,1,1,O
+57,SERIE,1819,180827,Roma,Atalanta,1,0,X
+58,LALIGA,1819,180824,Getafe,Eibar,0,0,O
+59,LALIGA,1819,180824,Leganes,Real Sociedad,1,2,X
+60,LALIGA,1819,180825,Alaves,Real Betis,1,1,O
+61,LALIGA,1819,180825,Atletico Madrid,Rayo Vallecano,0,0,O
+62,LALIGA,1819,180825,Valladolid,Barcelona,2,2,O
+63,LALIGA,1819,180826,Espanyol,Valencia,0,1,X
+64,LALIGA,1819,180826,Girona,Real Madrid,2,2,O
+65,LALIGA,1819,180826,Sevilla,Villarreal,1,0,X
+66,LALIGA,1819,180827,Levante,Celta Vigo,2,1,X
+67,LALIGA,1819,180827,Athletic Bilbao,SD Huesca,1,0,X
+68,EPL,1819,180901,Leicester,Liverpool,2,2,O
+69,EPL,1819,180901,West Ham,Wolverhampton Wanderers,2,1,X
+70,EPL,1819,180901,Brighton,Fulham,1,1,O
+71,EPL,1819,180901,Chelsea,Bournemouth,0,0,O
+72,EPL,1819,180901,Crystal Palace,Southampton,2,1,X
+73,EPL,1819,180901,Everton,Huddersfield,1,0,X
+74,EPL,1819,180901,Manchester City,Newcastle United,0,0,O
+75,EPL,1819,180902,Cardiff,Arsenal,2,2,O
+76,EPL,1819,180902,Watford,Tottenham,0,2,X
+77,EPL,1819,180902,Burnley,Manchester United,2,2,O
+78,SERIE,1819,180831,AC Milan,Roma,0,0,O
+79,SERIE,1819,180901,Bologna,Inter,2,2,O
+80,SERIE,1819,180901,Parma,Juventus,2,2,O
+81,SERIE,1819,180902,Fiorentina,Udinese,0,0,O
+82,SERIE,1819,180902,Lazio,Frosinone,0,0,O
+83,SERIE,1819,180902,Chievo,Empoli,1,1,O
+84,SERIE,1819,180902,Sampdoria,Napoli,0,2,X
+85,SERIE,1819,180902,Sassuolo,Genoa,0,0,O
+86,SERIE,1819,180902,Torino,SPAL 2013,0,0,O
+87,SERIE,1819,180902,Atalanta,Cagliari,2,0,X
+88,LALIGA,1819,180831,Getafe,Valladolid,1,1,O
+89,LALIGA,1819,180831,Eibar,Real Sociedad,0,1,X
+90,LALIGA,1819,180831,Villarreal,Girona,2,0,X
+91,LALIGA,1819,180901,Celta Vigo,Atletico Madrid,0,2,X
+92,LALIGA,1819,180901,Real Madrid,Leganes,0,0,O
+93,LALIGA,1819,180902,Levante,Valencia,1,2,X
+94,LALIGA,1819,180902,Alaves,Espanyol,0,0,O
+95,LALIGA,1819,180902,Barcelona,SD Huesca,0,0,O
+96,LALIGA,1819,180902,Real Betis,Sevilla,0,2,X
+97,EPL,1819,180915,Tottenham,Liverpool,2,2,O
+98,EPL,1819,180915,Bournemouth,Leicester,0,1,X
+99,EPL,1819,180915,Chelsea,Cardiff,0,0,O
+100,EPL,1819,180915,Huddersfield,Crystal Palace,2,1,X
+101,EPL,1819,180915,Manchester City,Fulham,0,0,O
+102,EPL,1819,180915,Newcastle United,Arsenal,2,2,O
+103,EPL,1819,180915,Watford,Manchester United,2,2,O
+104,EPL,1819,180916,Wolverhampton Wanderers,Burnley,0,0,O
+105,EPL,1819,180916,Everton,West Ham,2,1,X
+106,EPL,1819,180917,Southampton,Brighton,1,0,X
+107,SERIE,1819,180915,Inter,Parma,2,0,X
+108,SERIE,1819,180915,Napoli,Fiorentina,0,0,O
+109,SERIE,1819,180915,Frosinone,Sampdoria,2,2,O
+110,SERIE,1819,180916,Roma,Chievo,1,0,X
+111,SERIE,1819,180916,Udinese,Torino,1,0,X
+112,SERIE,1819,180916,Juventus,Sassuolo,0,0,O
+113,SERIE,1819,180916,Genoa,Bologna,0,1,X
+114,SERIE,1819,180916,Empoli,Lazio,2,2,O
+115,SERIE,1819,180916,Cagliari,AC Milan,1,2,X
+116,SERIE,1819,180917,SPAL 2013,Atalanta,0,2,X
+117,SERIE,1819,180919,Sampdoria,Fiorentina,1,2,X
+118,LALIGA,1819,180914,SD Huesca,Rayo Vallecano,2,1,X
+119,LALIGA,1819,180915,Atletico Madrid,Eibar,1,0,X
+120,LALIGA,1819,180915,Real Sociedad,Barcelona,2,2,O
+121,LALIGA,1819,180915,Valencia,Real Betis,1,0,X
+122,LALIGA,1819,180915,Athletic Bilbao,Real Madrid,1,2,X
+123,LALIGA,1819,180916,Leganes,Villarreal,2,2,O
+124,LALIGA,1819,180916,Espanyol,Levante,0,0,O
+125,LALIGA,1819,180916,Valladolid,Alaves,2,1,X
+126,LALIGA,1819,180916,Sevilla,Getafe,2,0,X
+127,LALIGA,1819,180917,Girona,Celta Vigo,0,0,O
